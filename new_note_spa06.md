@@ -1,4 +1,4 @@
-# part0.5
+# part0.6
 ```mermaid
 sequenceDiagram
     participant browser
