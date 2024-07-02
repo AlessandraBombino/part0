@@ -21,7 +21,7 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
-    server-->>browser: json containing the new and old notes is retrieved
+    server-->>browser: json containing the notes is loaded
     deactivate server
 
 ```
